@@ -1,6 +1,7 @@
+
 > Cliente de consola de soporte para testeo y envío de emails.
 
-UI MAILS
+Mail Sender
 ===================
 # Instalación
 ```
