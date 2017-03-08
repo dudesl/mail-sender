@@ -1,0 +1,32 @@
+{
+  "name": "mail-sender",
+  "version": "0.1.0",
+  "description": "An email sender test tool. Envio de emails con la libreria mail nativa de Unix.",
+  "main": "index.js",
+  "bin": {
+    "mail-sender": "cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dudesl/mail-sender"
+  },
+  "keywords": [
+    "email",
+    "mail",
+    "send",
+    "test",
+    "tool",
+    "javascript",
+    "node"
+  ],
+  "author": "Santiago Barchetta <\"dudesl@gmail.com\">",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dudesl/mail-sender/issues"
+  },
+  "homepage": "https://github.com/dudesl/mail-sender",
+  "dependencies": {
+    "chalk": "~1.1.1",
+    "commander": "^2.7.1"
+  }
+}
